@@ -1,0 +1,13 @@
+{
+    "name": "qcc/src",
+    "authors": [
+        {
+            "name": "qiuchunchao",
+            "email": "qiuchunchao@yfcloud.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "Yuansir\\Toastr\\": "src/" }
+    }
+}
